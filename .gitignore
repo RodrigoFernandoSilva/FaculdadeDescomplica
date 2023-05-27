@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/node_modules
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.pnp
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.pnp.js
+
+# testing
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/coverage
+
+# production
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/build
+
+# misc
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.DS_Store
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.env.local
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.env.development.local
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.env.test.local
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.env.production.local
+
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/npm-debug.log*
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/yarn-debug.log*
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/yarn-error.log*
+
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/*-lock.json
+
+pratica_integradora_tecnologias_disruptivas/modulo10/template-materialui/.editorconfig
